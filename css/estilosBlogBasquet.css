@@ -79,19 +79,34 @@
     text-align: center;
 }
 
+.marcoNoticia {
+    background-color: #5b07bb;
+    margin: .5em;
+    padding: .8em;
+    border-radius: .5em;
+}
+
 .noticia {
     background-color: #fff;
-    margin: 1em;
-    padding: 1em;
+    padding: .5em;
     border-radius: .5em;
+}
+
+.noticia h2, h3{
+    margin: .25em;
 }
 
 .volver {
     background-color: #5b07bb;
     text-align: center;
+    margin: .5em;
     border-radius: .5em;
     border-width: 1px, 0, 1px, 0;
 }
+
+.volver h4{
+    margin: .25em;
+} 
 
 .volver a{
     text-decoration: none;
