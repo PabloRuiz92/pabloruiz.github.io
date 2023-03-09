@@ -28,12 +28,9 @@
     color: black;
 }
 
-.blog a:hover {
-    box-shadow: 5px 10px 8px #b61919;
-    transition: .3s;
-}
 
-.blog a {
+.tarjeta:hover {
+    box-shadow: 5px 10px 8px #6b4d8d;
     transition: .3s;
 }
 
@@ -45,6 +42,7 @@
     padding: 1em;
     border-radius: .5em;
     border: #5b07bb thin solid;
+    transition: .3s;
 }
 
 .marcoTarjeta {
@@ -102,6 +100,7 @@
     margin: .5em;
     border-radius: .5em;
     border-width: 1px, 0, 1px, 0;
+    transition: .3s;
 }
 
 .volver h4{
@@ -111,4 +110,9 @@
 .volver a{
     text-decoration: none;
     color: #fff;
+}
+
+.volver:hover {
+    box-shadow: 5px 10px 8px #6b4d8d;
+    transition: .3s;
 }
