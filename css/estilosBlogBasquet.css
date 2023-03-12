@@ -4,7 +4,7 @@
 
 .banner {
     padding: .5em 0;
-    background-color: #5b07bb;
+    background-color: #bb6d07;
     border-radius: .5em;
 }
 
@@ -12,7 +12,7 @@
     text-align: center;
     font-size: 5em;
     font-family: 'Anton', Arial, sans-serif;
-    color: #fff;
+    color: #000000;
 }
 
 .blog {
@@ -30,7 +30,7 @@
 
 
 .tarjeta:hover {
-    box-shadow: 5px 10px 8px #6b4d8d;
+    box-shadow: 5px 10px 8px #bb6d07;
     transition: .3s;
 }
 
@@ -41,12 +41,12 @@
     margin: 1em;
     padding: 1em;
     border-radius: .5em;
-    border: #5b07bb thin solid;
+    border: #bb6d07 thin solid;
     transition: .3s;
 }
 
 .marcoTarjeta {
-    background-color: #5b07bb;
+    background-color: #bb6d07;
     padding: .8em;
     border-radius: .5em;
 }
@@ -78,7 +78,7 @@
 }
 
 .marcoNoticia {
-    background-color: #5b07bb;
+    background-color: #bb6d07;
     margin: .5em;
     padding: .8em;
     border-radius: .5em;
@@ -95,7 +95,7 @@
 }
 
 .volver {
-    background-color: #5b07bb;
+    background-color: #bb6d07;
     text-align: center;
     margin: .5em;
     border-radius: .5em;
@@ -109,10 +109,10 @@
 
 .volver a{
     text-decoration: none;
-    color: #fff;
+    color: #000000;
 }
 
 .volver:hover {
-    box-shadow: 5px 10px 8px #6b4d8d;
+    box-shadow: 5px 10px 8px #bb6d07;
     transition: .3s;
 }
