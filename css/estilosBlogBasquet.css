@@ -116,3 +116,11 @@
     box-shadow: 5px 10px 8px #bb6d07;
     transition: .3s;
 }
+
+.titulo {
+    text-align: center;
+}
+
+.negrita {
+    font-weight: bold;
+}
